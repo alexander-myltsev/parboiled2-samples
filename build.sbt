@@ -7,5 +7,5 @@ scalaVersion := "2.11.2"
 libraryDependencies ++= Seq(
   "org.parboiled"  %% "parboiled"    % "2.0.0",
   "io.spray"       %% "spray-json"   % "1.2.6",
-  "org.scala-lang" % "scala-reflect" % "2.11.1"
+  "org.scala-lang" % "scala-reflect" % "2.11.2"
 )
