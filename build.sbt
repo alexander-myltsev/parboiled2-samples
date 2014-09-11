@@ -1,4 +1,4 @@
-name := "parboiled2-sample"
+name := "parboiled2-samples"
 
 version := "0.1"
 
